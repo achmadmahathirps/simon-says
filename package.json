@@ -1,0 +1,15 @@
+{
+  "name": "simon_game_ver1.1",
+  "version": "1.1.0",
+  "description": "A \"Simon Says\" game made with Javascript and Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mahathir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
